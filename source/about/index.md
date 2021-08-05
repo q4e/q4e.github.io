@@ -17,10 +17,3 @@ comments: false
 * Cocos-2dx(1 Year).
 * Unity3D(Basic).
 * Android(Basic).
-
-### 作品
-
-* 原始会（iOS App）
-* Funtasy (iOS Fun Vedio App)
-* 义方快乐学堂（Cocos-2dx）
-
